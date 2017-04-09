@@ -1,4 +1,5 @@
 body{
+	display:none;
 	background-image: url('bckgrnd.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
