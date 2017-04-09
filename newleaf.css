@@ -55,7 +55,7 @@ body{
 	margin-bottom: 20px;
 	border-radius:15px;
 }
-.xp{
+.xphead{
 	background-color: #E1E1E1;
 	width: 455px;
 	height: 300px;
@@ -63,12 +63,21 @@ body{
 	text-align: center;
 	margin-right: 30px;
 }
-.sk{
+.xp{
+	text-align: left;
+}
+.skhead{
 	background-color: #E1E1E1;
 	width: 455px;
 	height: 300px;
 	float: left;
 	text-align: center;
+}
+.sk{
+	text-align: left;
+}
+.languages{
+	text-align: left;
 }
 .contacts{
 	background-image: url('contacts.jpg');
@@ -133,4 +142,6 @@ a{
 a:hover{
 	color:#3E3E56;
 }
-
+.list{
+	list-style: transparent;
+}
